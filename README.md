@@ -36,11 +36,11 @@ This is a simple quiz website built using Node.js, Express, and PostgreSQL. The 
 5.Open your browser and navigate to http://localhost:3000 to play the quiz.
 
 ## Technologies Used
-Node.js: JavaScript runtime.
-Express: Web framework for Node.js.
-EJS: Templating engine for rendering the frontend.
-PostgreSQL: Database to store country and capital information.
-CSS: Basic styling.
+- **Node.js**: JavaScript runtime.
+- **Express**: Web framework for Node.js.
+- **EJS**: Templating engine for rendering the frontend.
+- **PostgreSQL**: Database to store country and capital information.
+- **CSS**: Basic styling.
 
 ## Contributing
 Feel free to submit pull requests to enhance the features or fix bugs.   
