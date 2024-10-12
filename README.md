@@ -24,14 +24,18 @@ This is a simple quiz website built using Node.js, Express, and PostgreSQL. The 
    cd world-capital-quiz
 
 2.Install the dependencies:
-   '''bash npm i'''
+   '''bash 
+   npm I
+   '''
 
 3.Set up the PostgreSQL database:
   Create a database called world.
   Add a capitals table with columns country and capital.   
 
 4.Run the application:
- '''bash npm nodemon index.js '''
+ '''bash 
+ npm nodemon index.js 
+ '''
 
 5.Open your browser and navigate to http://localhost:3000 to play the quiz.
 
