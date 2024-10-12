@@ -24,7 +24,8 @@ This is a simple quiz website built using Node.js, Express, and PostgreSQL. The 
    cd world-capital-quiz
 
 2.Install the dependencies:
-   npm I
+   ```bash
+   npm i
 
 3.Set up the PostgreSQL database:
   Create a database called world.
